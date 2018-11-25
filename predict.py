@@ -35,7 +35,7 @@ model.add( Dropout(0.2) )
 model.add( Dense(11) )
 model.add( Activation('softmax') )
 
-model.load_weights('model_v10.h5')
+model.load_weights('./model/model_v10.h5')
 
 predict_img = ImageDataGenerator();
 predict_gen = predict_img.flow_from_directory(
