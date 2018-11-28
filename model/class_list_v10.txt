@@ -1,0 +1,11 @@
+alarm clock
+banana
+cactus
+carrot
+diamond
+key
+leaf
+lightbulb
+sun
+t-shirt
+tree
